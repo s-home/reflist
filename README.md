@@ -22,3 +22,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+ver 1.1 レスポンシブ対応 => スマホでのコピーに対応
